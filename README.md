@@ -38,6 +38,8 @@ Nos envie as linhas de comandos executadas para configurar cada um dos roteadore
 
 **ATENÇÃO**
 - Os roteadores Dell no GNS3 possuem alguns problemas, em alguns casos foi necessário recriar o ambiente do zero devido ao travamento da VM.
+- Altere a configuração de console para VNC antes de ligar o roteador.
+- Caso apareça uma pergunta sobre BMP instalação no momento do boot do roteador, selecione Abortar.
 - O ambiente com todos os roteadores ligados consumiu entre 8 e 12 GB de RAM.
 - Devido a falta de compatibilidade, foi utilizado roteadores como servidores (SWRACK2-SERVER1 e SWRACK2-SERVER2).
 - O traceroute poderá não mostrar o IP do destino final, porém, o ping deve retornar o resultado normal.
@@ -45,6 +47,7 @@ Nos envie as linhas de comandos executadas para configurar cada um dos roteadore
   - fortyGigE 0/0 no GNS3 significa fortyGigE 0/0 no roteador;
   - fortyGigE 0/1 no GNS3 significa fortyGigE 0/4 no roteador;  
   - fortyGigE 0/4 no GNS3 significa fortyGigE 0/16 no roteador;
+    
 
 Topologia de Rede - Desafio 1
 
