@@ -37,6 +37,7 @@ Nos envie as linhas de comandos executadas para configurar cada um dos roteadore
 ```
 
 **ATENÇÃO**
+- Não recomendamos o uso do VirtualBox para emular os switches Dell.
 - Os roteadores Dell no GNS3 possuem alguns problemas, em alguns casos foi necessário recriar o ambiente do zero devido ao travamento da VM.
 - Altere a configuração de console para VNC antes de ligar o roteador.
 - Caso apareça uma pergunta sobre BMP instalação no momento do boot do roteador, selecione Abortar.
