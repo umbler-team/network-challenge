@@ -5,7 +5,7 @@ Esse repositório contém as instruções necessárias para rodar os desafios t�
 - O desafio técnico 1 tem como objetivo testar a habilidade de se criar rotas estáticas em roteadores Dell.
 - O desafio técnico 2 tem como objetivo testar a habilidade de se lidar com rotas dinâmicas BGP em roteadores Juniper.
 
-Para realizar os desafios, utilizamos o software GNS3 versão 2.2.45: https://www.gns3.com/software/download.
+Para realizar os desafios, utilizamos o software GNS3 versão 2.2.52: https://www.gns3.com/software/download.
 
 Juntamente com a VM, versão Hyper-v: https://gns3.com/software/download-vm.
 
